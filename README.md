@@ -13,12 +13,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lakelimbo.lakelimbo&"  />
-</div>
-
-###
-
 <h1 align="center">hello.</h1>
 
 ###
